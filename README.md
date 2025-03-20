@@ -19,7 +19,7 @@ This app comes with the following features:
 
 ## What is not included
 Due to time limitation and this project being manily for demonstration, I have decided to keep things at basic levels and avoid any complexity, hence the following things which are necessary in production are skipped in this project:
-1. **Payment verification**: on the backend side stripe webhook provides functionality to securely process payment intents and checkouts which was skipped but should be done in a production level app.
+1. **Payment verification**: on the backend side stripe webhook provides verification functionality to verify the authenticity of the caller, which was skipped but should be done in a production level app.
 2. **Route protection**: some frontend routes may not be protected which should be handled in a production web application.
 3. **Token Management**: This application provides authentication and authorization using basic JWT tokens. In production systems, multiple auth providers are used which provide better security than a custom made solution (e.g. Auth0)
 4. **Responsiveness**: Not much focus was given to the frontend UI responsiveness because it is a time consuming process
