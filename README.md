@@ -24,8 +24,6 @@ Due to time limitation and this project being manily for demonstration, I have d
 3. **Token Management**: This application provides authentication and authorization using basic JWT tokens. In production systems, multiple auth providers are used which provide better security than a custom made solution (e.g. Auth0)
 4. **Responsiveness**: Not much focus was given to the frontend UI responsiveness because it is a time consuming process
 
-Software development is an incremental process, which is why fields like QA and QC exist. They help identify and fix issues continuously, ensuring ongoing improvements and better overall quality.
-
 ## Access
 1. REST API documentation can be accessed at the following link (please wait for at least 50 seconds when making the first request): https://woocom-backend.onrender.com/api/docs/
 2. Frontend can be accessed at the following link (minor issues are expected): https://aeoniscom.netlify.app/
