@@ -27,6 +27,7 @@ Due to time limitation and this project being manily for demonstration, I have d
 ## Access
 1. REST API documentation can be accessed at the following link (please wait for at least 50 seconds when making the first request): https://woocom-backend.onrender.com/api/docs/
 2. Frontend can be accessed at the following link (minor issues are expected): https://aeoniscom.netlify.app/
+3. Admin credentials are: email = admin@aeonis.com and password = 123123
 
 ## Payment Processing
 Below diagram shows the way payment processing is handled by the application.
